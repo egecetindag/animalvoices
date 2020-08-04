@@ -1,0 +1,12 @@
+{
+  "name": "AnimalVoices",
+  "displayName": "AnimalVoices",
+  "expo": {
+    "name": "AnimalVoices",
+    "slug": "AnimalVoices",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
