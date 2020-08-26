@@ -1,4 +1,4 @@
-package com.animalvoices;
+package com.example.animalvoices;
 
 import android.os.Bundle;
 

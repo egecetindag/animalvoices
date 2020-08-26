@@ -1,4 +1,4 @@
-package com.animalvoices.generated;
+package com.example.animalvoices.generated;
 
 import java.util.Arrays;
 import java.util.List;

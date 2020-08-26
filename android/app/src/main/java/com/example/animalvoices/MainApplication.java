@@ -1,4 +1,4 @@
-package com.animalvoices;
+package com.example.animalvoices;
 
 import android.app.Application;
 import android.content.Context;
@@ -6,12 +6,14 @@ import android.net.Uri;
 
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
+import com.RNFetchBlob.RNFetchBlobPackage;
+import com.zmxv.RNSound.RNSoundPackage;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
-import com.animalvoices.generated.BasePackageList;
+import com.example.animalvoices.generated.BasePackageList;
 
 import org.unimodules.adapters.react.ReactAdapterPackage;
 import org.unimodules.adapters.react.ModuleRegistryAdapter;

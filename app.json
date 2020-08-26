@@ -1,12 +1,20 @@
 {
-  "name": "AnimalVoices",
-  "displayName": "AnimalVoices",
+  "name": "Hayvan Sesleri",
+  "displayName": "Hayvan Sesleri",
   "expo": {
-    "name": "AnimalVoices",
-    "slug": "AnimalVoices",
-    "version": "1.0.0",
+    "name": "Hayvan Sesleri",
+    "slug": "Hayvan Sesleri",
+    "version": "1.0.1",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "permissions":[],
+      "package": "com.example.animalvoices"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.animalvoices"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
   }
 }
